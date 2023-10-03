@@ -1,0 +1,14 @@
+C:\Users\valerio\Desktop\progetto\bin\Debug\net7.0\progetto.exe
+C:\Users\valerio\Desktop\progetto\bin\Debug\net7.0\progetto.deps.json
+C:\Users\valerio\Desktop\progetto\bin\Debug\net7.0\progetto.runtimeconfig.json
+C:\Users\valerio\Desktop\progetto\bin\Debug\net7.0\progetto.dll
+C:\Users\valerio\Desktop\progetto\bin\Debug\net7.0\progetto.pdb
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\progetto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\progetto.AssemblyInfoInputs.cache
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\progetto.AssemblyInfo.cs
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\progetto.csproj.CoreCompileInputs.cache
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\progetto.dll
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\refint\progetto.dll
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\progetto.pdb
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\progetto.genruntimeconfig.cache
+C:\Users\valerio\Desktop\progetto\obj\Debug\net7.0\ref\progetto.dll
